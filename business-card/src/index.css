@@ -32,7 +32,10 @@ code {
 }
 .card--img {
   width: 317px;
-  height: auto;
+  height: 317px;
+  background-image: url('./Sif.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .card-body {
   padding: 30px 35px 0 35px;

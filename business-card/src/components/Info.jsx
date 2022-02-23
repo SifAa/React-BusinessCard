@@ -1,7 +1,7 @@
 const Info = () => {
     return (
         <div className="card--info">
-            <img src="..." className="card--img" alt="Sif Aagaard-Svendsen" />
+            <div className="card--img"> </div>
             <div className="card-body">
                 <h2 className="card--name">Sif Aagaard-Svendsen</h2>
                 <h4 className="card--job">Webdeveloper</h4>
